@@ -1,5 +1,8 @@
 # Dependency Graph Visualizer
 
+## Version
+1.0.0
+
 ## Description
 A CLI tool to generate an interactive dependency graph from `package.json` and lock files (`package-lock.json` or `yarn.lock`).
 
@@ -35,3 +38,6 @@ dependency-graph-visualizer/
 │   └── parser.test.js      # Unit tests for the parser module
 └── .gitignore
 ```
+
+## Badges
+![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
